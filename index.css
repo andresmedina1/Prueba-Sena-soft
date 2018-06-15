@@ -1,0 +1,342 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.pagina{
+    width: auto;
+    height: 2000px;
+    background-color: white;
+    margin: auto;
+}
+.screen{
+    width: 220px;
+    height: 350px;
+    text-align: center;
+  }
+.fondo{
+    width: 100%;
+    height: 837px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+    text-align: center;
+}
+.titulo{
+    width: 80px;
+    height: auto;
+    position: absolute;
+    top: 55px;
+    left: 85px;
+    margin: auto;
+}
+.menu{
+    font-size: 16px;
+    color: white;
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    top: 65px;
+    right: 127px;
+    margin: auto;
+}
+.menu2{
+    width: 30px;
+    height: 25px;
+    position: absolute;
+    top: 61px;
+    right: 87px;
+    margin: auto;
+}
+
+.titulo2{
+    font-size: 48px;
+    color: white;
+    position: absolute;
+    font-family: 'Nunito', sans-serif;
+    top: 270px;
+    left: 81px;
+    right: 0px;
+    margin: auto;
+    text-align: left;
+}
+.boton1{
+    width: 222px;
+    height: 69px;
+    background-color: #FFFFFF;
+    border-radius: 2%;
+    position: absolute;
+    top: 446px;
+    left: 87px;
+    margin: auto;
+    transition: 1s;
+}
+.boton1:hover{
+    background-color: #76D7C4;
+}
+.bletra{
+    font-family: 'Nunito', sans-serif;
+    font-size: 23px;
+    position: relative;
+    color: #76D7C4;
+    top: 20px;
+    transition: 1s;
+}
+.bletra:hover{
+    color: white;
+}
+.boton2{
+    width: 222px;
+    height: 67px;
+    border: 2px solid white;
+    border-radius: 2%;
+    font-family: 'Nunito', sans-serif;
+    font-size: 23px;
+    color: white;
+    position: absolute;
+    top: 446px;
+    left: 323px;
+    margin: auto;
+    transition: 1s;
+}
+.boton2:hover{
+    border-color: #76D7C4;
+    color: #76D7C4;
+}
+.bletra2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 23px;
+    position: relative;
+    color: white;
+    top: 20px;
+    transition: 1s;
+}
+.bletra2:hover{
+    color: #76D7C4;
+}
+.banner1{
+    width: 414px;
+    height: 87px;
+    text-align: center;
+    position: relative;
+    top: 546px;
+    left: 20px;
+    right: 20px;
+    margin: auto;
+}
+.play{
+    width: 50px;
+    height: 50px;
+    position: relative;
+    top: 20px;
+    left: 0px;
+    right: 0px;
+    margin: auto;
+}
+.play2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 23px;
+    color: #000000;
+    position: relative;
+    top: 3px;
+    left: 10px;
+    right: 0px;
+    margin: auto;
+}
+.banner2{
+    width: auto;
+    height: 400px;
+    background-color: rgb(49, 91, 117);
+    position: relative;
+    top: 600px;
+    margin: auto;
+}
+.bfondo{
+    width: 700px;
+    height: 400px;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+}
+.html{
+    width: 75px;
+    height: 85px;
+    position: relative;
+    top: 153px;
+    left: 292px;
+    margin: auto;
+}
+.titulo3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 26px;
+    color: #FFFFFF;
+    position: absolute;
+    top: 74px;
+    right: 168px;
+    margin: auto;
+}
+.texto{
+    width: 586px;
+    height: 84px;
+    position: absolute;
+    top: 114px;
+    right: 67px;
+    margin: auto;
+}
+.lorem{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color: #FFFFFF;
+    position: relative;
+    top: 0px;
+    text-align: justify;
+    margin: auto;
+    padding: 20px;
+    line-height: 2;
+}
+.link{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    color: #76D7C4;
+    position: absolute;
+    top: 236px;
+    right: 430px;
+    margin: auto;
+}
+.banner3{
+    width: auto;
+    height: 350px;
+    position: relative;
+    top: 600px;
+    margin: auto;
+}
+.responsive{
+    width: 1423px;
+    height: 250px;
+    position: absolute;
+    top: 68px;
+    margin: auto;
+    display: inline-block;
+}
+.iconos{
+    width: auto;
+    height: auto;
+    position: relative;
+    margin: 50px 187px 10px 140px;
+}
+.titulo4{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: #000000;
+    position: absolute;
+    top: 26px;
+    left: 269px;
+}
+.titulo5{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: #000000;
+    position: absolute;
+    top: 26px;
+    right: 580px;
+}
+.titulo6{
+    font-family: 'Nunito', sans-serif;
+    font-size: 20px;
+    color: rgb(0, 0, 0);
+    position: absolute;
+    top: 26px;
+    right: 146px;
+}
+.container{
+    width: 241px;
+    height: 103px;
+    position: absolute;
+    top: 43px;
+    left: 248px;
+    margin: auto;
+}
+.texto2{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    position: relative;
+    margin: auto;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 2;
+    padding: 20px;
+}
+.boton3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    margin: auto;
+    top: 180px;
+    left: 268px;
+    color: rgb(0, 0, 0);
+    transition: 1s;
+}
+.boton3:hover{
+    color: #76D7C4;
+}
+
+.container2{
+    width: 248px;
+    height: 103px;
+    position: absolute;
+    top: 43px;
+    right: 488px;
+    margin: auto;
+}
+.texto3{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    position: relative;
+    margin: auto;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 2;
+    padding: 20px;
+}
+.boton4{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    margin: auto;
+    top: 180px;
+    right: 617px;
+    color: rgb(0, 0, 0);
+    transition: 1s;
+}
+.boton4:hover{
+    color: #76D7C4;
+}
+
+.container3{
+    width: 268px;
+    height: 103px;
+    position: absolute;
+    top: 43px;
+    right: 62px;
+    margin: auto;
+}
+.texto4{
+    font-family: 'Nunito', sans-serif;
+    font-size: 14px;
+    position: relative;
+    margin: auto;
+    color: rgba(0, 0, 0, 0.8);
+    line-height: 2;
+    padding: 20px;
+}
+.boton5{
+    font-family: 'Nunito', sans-serif;
+    font-size: 16px;
+    position: absolute;
+    margin: auto;
+    top: 180px;
+    right: 216px;
+    color: rgb(0, 0, 0);
+    transition: 1s;
+}
+.boton5:hover{
+    color: #76D7C4;
+}
